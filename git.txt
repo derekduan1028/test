@@ -1,0 +1,5 @@
+ 735  git status
+ 736  git add test_push.py
+ 738  git commit -m "add test push file to git"
+ 742  git log
+ 745  git push
